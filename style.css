@@ -1,1 +1,27 @@
+/* contructor */
+html,
+body {
+      width: 100%;
+      heigt: 100%;
+      margin: 0;
+      background-color:#f9f9f9;
+}
 
+/* clearfix */
+.clarfix {
+    clear: both;
+    padding:2%;
+}
+
+/* background */
+.home-bg {
+        width: 100%;
+        heigt: 100%;
+        margin: auto;
+        background: url(https://i.imgur.com/0tykmxD.gif) no-repeat center center fixed;
+        display: table;
+        top: 0;
+        background-size: cover;
+        opacity: .9;
+}
+   
