@@ -2,10 +2,6 @@
 <html>
 <head>
 <style>
-p {
-	color: blue;
-background-color: lightgray;
-}
 
     background-color: Gray;
 
@@ -14,7 +10,7 @@ background-color: lightgray;
 <body>
 
 <h1>Hello, welcome to my website. :)</h1>
-<p>This is a random meme page.</p>
+<p> style="background-color:Violet;">Hi, this is a random meme page. :)</p>
 <p>I hpoe you like it.</p>
     
 </body>
