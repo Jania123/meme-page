@@ -1,27 +1,22 @@
-<!DOCTYPE html>
+<DOCTYPE html>
 <html>
 <head>
 <style>
-body {
-    background-color: #ccffff;
-}
-
-h1 {
-    color: white;
-    text-align: center;
-}
-
 p {
-    font-family: verdana;
-    font-size: 20px;
+	color: blue;
+background-color: lightgray;
 }
+
+
+    background-color: Gray;
+
 </style>
 </head>
 <body>
 
-<h1>Hi, welcome to my website!</h1>
-<p>This is a random meme page! Yay!</p>
-<p>I hpoe you like it!</p>
+<h1>Hi, welcome to my website.</h1>
+<p>This is a random meme page.</p>
+<p>I hpoe you like it.</p>
     
 </body>
 </html>
