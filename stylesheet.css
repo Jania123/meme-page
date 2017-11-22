@@ -1,16 +1,23 @@
-<DOCTYPE html>
-<html>
-    <body>
+<!DOCTYPE html>
+	<html>
+		<body>
 
-h1 {
-	color: Tomato;
-	text-align: center;
+body {
+	background-image: url("http://www.allstateprinting.com.au/wp-content/uploads/2014/11/poly_background.jpg");
+	
+	background-position: center center;
+	
+	background-size: cover;
+
+	bakground-attachment: fixed;
+	
+	p.serif {
+    font-family: "Times New Roman", Times, serif;
 }
 
-<h1>Jania's random meme page</h1>
-<p>Hello and wellcome to my website</p> 
-<p>I hope you like it</p>
+	
+	<h1>Hello and welcome to MEMES 4 DAYS!</h1>
+	<p>I hope you like it :)</p>
 
-<img ="
-    </body>
-</html>
+		</body>
+	</html>
