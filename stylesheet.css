@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-	<html>
-		<body>
+
 
 body {
 	background-image: url("http://www.allstateprinting.com.au/wp-content/uploads/2014/11/poly_background.jpg");
@@ -10,14 +8,10 @@ body {
 	background-size: cover;
 
 	bakground-attachment: fixed;
-	
-	p.serif {
+}
+	p {
     font-family: "Times New Roman", Times, serif;
 }
 
 	
-	<h1>Hello and welcome to MEMES 4 DAYS!</h1>
-	<p>I hope you like it :)</p>
-
-		</body>
-	</html>
+	
